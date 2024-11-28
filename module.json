@@ -1,0 +1,57 @@
+{
+  "id": "eldritch-dreams-assorted-free-pf2e",
+  "title": "Eldritch Dream's  Assorted Free PF2e",
+  "version": "0.1.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "description": "A collection of various free bits of content for the Pathfinder Second Edition tabletop roleplaying game. All content available in full on my patreon in a nice format https://www.patreon.com/c/EldritchDreamCreations",
+  "authors": [
+    {
+      "name": "Shawn \"Eldritch Dream\" Pommier",
+      "email": "aneldritchdreamgames@gmail.com",
+      "url": "https://www.patreon.com/c/EldritchDreamCreations",
+      "discord": "eldritchdream",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "eldritches-assorted-creatures",
+      "label": "Eldritch's Assorted Actors",
+      "path": "packs/eldritches-assorted-creatures",
+      "type": "Actor",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e"
+    },
+    {
+      "name": "eldritchs-assorted-journals",
+      "label": "Eldritch's Assorted Journals",
+      "path": "packs/eldritchs-assorted-journals",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e"
+    },
+    {
+      "name": "eldritchs-assorted-items",
+      "label": "Eldritch's Assorted Items",
+      "path": "packs/eldritchs-assorted-items",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e"
+    }
+  ],
+  "url": "https://www.patreon.com/c/EldritchDreamCreations",
+  "manifest":"https://github.com/EldritchDream/Eldritch-Dreams-Assorted-Free-PF2e/releases/download/1.0.0/module.json",
+  "download":"https://github.com/EldritchDream/Eldritch-Dreams-Assorted-Free-PF2e/releases/download/1.0.0/eldritch-dreams-assorted-free-pf2e.zip"
+}
